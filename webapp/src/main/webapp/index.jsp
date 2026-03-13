@@ -4,7 +4,7 @@
     <p>Please fill in this form to create an account for Devops.</p>
     <hr>
      
-    <label for="Name"><b>Enter YOUR Name</b></label>
+    <br><label for="Name"><b>Enter YOUR Name</b></label> </br>
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
     <label for="mobile"><b>Enter YOUR mobile</b></label>
     <input type="text" placeholder="Enter moible number" name="mobile" id="mobile" required>
